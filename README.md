@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student and aspiring developer</h3>
 
 - 🔭 I’m currently working on **personal and open-source projects**
-- 🌱 I’m learning **full-stack development and system design**
+- 🌱 I’m learning **full-stack development and Data Structure and Algorithm**
 - 💬 Ask me about **Python, C++, HTML, CSS, JavaScript**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-username)
 
@@ -14,9 +14,3 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-
----
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifa-23&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifa-23&layout=compact&theme=tokyonight)
