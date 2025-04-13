@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shifa</h1>
+<h3 align="center">A passionate Computer Science student and aspiring developer</h3>
 
-<!--
-**shifa-23/shifa-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **personal and open-source projects**
+- 🌱 I’m learning **full-stack development and system design**
+- 💬 Ask me about **Python, C++, HTML, CSS, JavaScript**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-username)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifa-23&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifa-23&layout=compact&theme=tokyonight)
