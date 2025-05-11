@@ -17,10 +17,11 @@
 
 
 ---
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shifa-23&theme=github)
----
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shifa-23&theme=dark&ring=00c6ff&fire=00c6ff&currStreakNum=00c6ff)](https://git.io/streak-stats)
+
+---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shifa-23&theme=github)
+
+
 
 
