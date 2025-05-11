@@ -24,4 +24,8 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifa-23&show_icons=true)
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shifa-23&theme=dark&ring=00c6ff&fire=00c6ff&currStreakNum=00c6ff)](https://git.io/streak-stats)
+
 
