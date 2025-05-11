@@ -18,4 +18,6 @@
 
 ---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifa-23&show_icons=true&hide_title=true)
+---
+
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shifa-23&theme=github)
