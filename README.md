@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Computer Science student and aspiring developer</h3>
 
-- 🔭 I’m currently working on **personal and open-source projects**
+- 🔭 I’m currently working on **personal and open-source projects** 
 - 🌱 I’m learning **full-stack development and Data Structure and Algorithm**
 - 💬 Ask me about **Python, C++, HTML, CSS, JavaScript**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-username)
