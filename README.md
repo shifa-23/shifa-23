@@ -6,7 +6,7 @@
 - 💬 Ask me about **Python, C++, HTML, CSS, JavaScript** 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-username)
 
----
+---   
 
 ### 🛠️ Languages & Tools:
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
