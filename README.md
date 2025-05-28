@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **personal and open-source projects**  
 - 🌱 I’m learning **full-stack development and Data Structure and Algorithm**
 - 💬 Ask me about **Python, C++, HTML, CSS, JavaScript**
-- 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-username)
 
 ---   
