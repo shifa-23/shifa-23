@@ -9,6 +9,7 @@
 ---   
 
 ### 🛠️ Languages & Tools:
+
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
