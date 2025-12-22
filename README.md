@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey! I’m a developer, tech writer, and open-source enthusiast who’s passionate about turning ideas into impactful digital experiences. I specialize in frontend development using React.js, Tailwind CSS, and modern JavaScript tools, but I love experimenting with new technologies and frameworks to solve real-world problems.<br>I enjoy building web apps that are not just functional, but also beautifully designed and highly interactive.
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shifa-parveen-45a5b0326) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shifaparveen0310@gmail.com) 
