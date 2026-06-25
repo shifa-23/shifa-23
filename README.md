@@ -11,4 +11,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/echohere"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="echohere" /></a></p><br><br>
 
- Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --- [![](https://visitcount.itsvg.in/api?id=shifa-23&icon=1&color=11)](https://visitcount.itsvg.in)
+<p>Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --- [![](https://visitcount.itsvg.in/api?id=shifa-23&icon=1&color=11)](https://visitcount.itsvg.in)
